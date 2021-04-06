@@ -1,1 +1,1 @@
-# ofxHeartBeat
+# ofxHeartbeat
