@@ -64,7 +64,7 @@ ofxOscMessage ofxHeartbeat::encodeOsc() const
 {
     ofxOscMessage m;
     m.setAddress( "/heart" );
-    //m.addStringArg( mAppId ); //[1] device ID
+    //sm.addStringArg( mAppId ); //[1] device ID
 
     return m;
 }
